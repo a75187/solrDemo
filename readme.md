@@ -40,5 +40,5 @@ solr-7.6.0 为例
  
  这里的配置表示mycore的数据导入使用solr的DataImportHandler，而这个handler所在的jar位于E:\solr-6.6.0\solr-6.6.0\dist目录里面,解压的时候就有。通过配置lib节点来进行引入  如果reload 报找不到类就将对应的jar 添加至 solr-7.6.0\server\solr-webapp\webapp\WEB-INF\lib 
  
-   
+    solr 服务器在百度网盘 
  
